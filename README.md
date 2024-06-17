@@ -1,0 +1,2 @@
+# 2024_CVEs
+All 2024 CVEs as of 6/17/2024
